@@ -2,6 +2,7 @@ class Animal {
     constructor(name){
         this.name = name
     }
+    
     getAnimal(){
         return this.name;
     }
